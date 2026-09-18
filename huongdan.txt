@@ -1,0 +1,13 @@
+=======================================
+ HUONG DAN CHOI TRO CHOI KEO - BUA - BAO
+=======================================
+
+1. Yêu cầu máy phải đã cài sẵn Python trên Termux.
+   Nếu chưa có, hãy gõ lệnh:
+   pkg install python
+
+2. Tải file bot.py từ GitHub về máy:
+   curl -O https://raw.githubusercontent.com/xuhao020118/Game-keo-bua-bao-cho-termux/refs/heads/main/bot.py
+
+3. Chạy trò chơi bằng lệnh:
+   python bot.py
